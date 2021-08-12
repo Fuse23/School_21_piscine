@@ -1,0 +1,7 @@
+a.out
+main.c
+main
+*.o
+!ex05/main.c
+ft_sort_params.c
+do-op
