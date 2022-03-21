@@ -1,0 +1,6 @@
+Credentials cache: API:1013360
+        Principal: falarm@KZN.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Jul 19 16:20:39 2021  Jul 20 02:20:39 2021  krbtgt/KZN.21-SCHOOL.RU@KZN.21-SCHOOL.RU
+Jul 19 16:20:42 2021  Jul 20 02:20:39 2021  HTTP/student-storage.kzn.21-school.ru@KZN.21-SCHOOL.RU
